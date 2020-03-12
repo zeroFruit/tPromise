@@ -1,0 +1,3 @@
+# tPromise
+
+Tiny Promise implementation
