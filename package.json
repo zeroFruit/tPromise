@@ -1,0 +1,18 @@
+{
+  "name": "promise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "promise.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --require esm"
+  },
+  "author": "zeroFruit",
+  "license": "ISC",
+  "devDependencies": {
+    "esm": "^3.2.25",
+    "mocha": "^7.0.0"
+  }
+}
